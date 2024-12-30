@@ -1,9 +1,9 @@
 # CS1010-project
 # Phantasm: A simple multi-level puzzle game built using Python's tkinter library. 
 "PHANTASM" is short for phantasmagoria — a mystical combination of the real and the unreal in the depiction of reality; a jumble of bizarre images, visions, and fantasies. The goal of PHANTASM is to take you on a journey akin to that of the main character: chaotic, grotesque, and confusing.
-Level 1 - Edgar R.
-Level 2, Main and Game Over Screen, audio assets, and doc - Veronika S.
-Level 3, story, and image assets - Helen V.
+<br>Level 1 - Edgar R.
+<br>Level 2, Main and Game Over Screen, audio assets, and doc - Veronika S.
+<br>Level 3, story, and image assets - Helen V.
 
 
 ## Table of Contents
